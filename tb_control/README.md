@@ -1,4 +1,4 @@
-The tb_control package represent an Open Controller node to govern a Turtlebot3 in the empty_world Gazebo environment. 
+The tb_control package represent an Open Loop Controller node to govern a Turtlebot3 in the empty_world Gazebo environment. 
 
 To run the code, perform the following steps:
 1. Download this directory and unzip it in your <ROS_workspace>/src/ directory.
